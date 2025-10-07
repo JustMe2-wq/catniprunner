@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6813f4978dfa74d4398fe0f27de66180
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -975240658538037851
+    second: Grass Bunch_0
+  - first:
+      213: -6603786636028063131
+    second: Grass Bunch_1
+  - first:
+      213: -8707845920509972812
+    second: Grass Bunch_2
+  - first:
+      213: 2174456476138517367
+    second: Grass Bunch_3
+  - first:
+      213: 1007626982680894092
+    second: Grass Bunch_4
+  - first:
+      213: -5637080785282714287
+    second: Grass Bunch_5
+  - first:
+      213: 1597900266498155138
+    second: Grass Bunch_6
+  - first:
+      213: -756583056737690796
+    second: Grass Bunch_7
+  - first:
+      213: -2077188476890144012
+    second: Grass Bunch_8
+  - first:
+      213: -2612224727532480099
+    second: Grass Bunch_9
+  - first:
+      213: -3884106809760114905
+    second: Grass Bunch_10
+  - first:
+      213: -1453798505788162914
+    second: Grass Bunch_11
+  - first:
+      213: 7407581262676541851
+    second: Grass Bunch_12
+  - first:
+      213: -6188863784378563382
+    second: Grass Bunch_13
+  - first:
+      213: -1494588426050286179
+    second: Grass Bunch_14
+  - first:
+      213: 1337290373050693056
+    second: Grass Bunch_15
+  - first:
+      213: 787460019973604843
+    second: Grass Bunch_16
+  - first:
+      213: -269176463003106845
+    second: Grass Bunch_17
+  - first:
+      213: 1719853415447904430
+    second: Grass Bunch_18
+  - first:
+      213: -2866440948900465100
+    second: Grass Bunch_19
+  - first:
+      213: 6215428379169426943
+    second: Grass Bunch_20
+  - first:
+      213: -1486652601624489295
+    second: Grass Bunch_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Grass Bunch_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 366
+        width: 547
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad7251c9cf3772f0800000000000000
+      internalID: -975240658538037851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_1
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 366
+        width: 547
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562531bfa03aa54a0800000000000000
+      internalID: -6603786636028063131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_2
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 366
+        width: 549
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be2b2d7544872780800000000000000
+      internalID: -8707845920509972812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_3
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 366
+        width: 554
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b8cfe4a83d2e10800000000000000
+      internalID: 2174456476138517367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_4
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 366
+        width: 558
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a1bc0f66fcbfd00800000000000000
+      internalID: 1007626982680894092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_5
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 366
+        width: 560
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1553b0f64e015c1b0800000000000000
+      internalID: -5637080785282714287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 246
+        width: 560
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 282ef1b83d1ec2610800000000000000
+      internalID: 1597900266498155138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_7
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 246
+        width: 565
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b121ce7b31085f0800000000000000
+      internalID: -756583056737690796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_8
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 246
+        width: 569
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ad6fe5185c23e0800000000000000
+      internalID: -2077188476890144012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_9
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 246
+        width: 571
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d995fe153738fbbd0800000000000000
+      internalID: -2612224727532480099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_10
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 246
+        width: 572
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72792967f61e81ac0800000000000000
+      internalID: -3884106809760114905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_11
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 246
+        width: 572
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cb08726f113dbe0800000000000000
+      internalID: -1453798505788162914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_12
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 126
+        width: 571
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b91ccae49e30dc660800000000000000
+      internalID: 7407581262676541851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_13
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 126
+        width: 569
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac406d89d2dbc1aa0800000000000000
+      internalID: -6188863784378563382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_14
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 126
+        width: 565
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9dccd3ceb7224be0800000000000000
+      internalID: -1494588426050286179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_15
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 126
+        width: 559
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c57c3f42820f8210800000000000000
+      internalID: 1337290373050693056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_16
+      rect:
+        serializedVersion: 2
+        x: 2412
+        y: 126
+        width: 559
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5495d47be9dea00800000000000000
+      internalID: 787460019973604843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_17
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 126
+        width: 553
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1cdccde61b34cf0800000000000000
+      internalID: -269176463003106845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_18
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 6
+        width: 549
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea0c385b1952ed710800000000000000
+      internalID: 1719853415447904430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_19
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 6
+        width: 547
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 436772fd42b5838d0800000000000000
+      internalID: -2866440948900465100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_20
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 6
+        width: 547
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd864b1e23a14650800000000000000
+      internalID: 6215428379169426943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Grass Bunch_21
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 6
+        width: 547
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b213cfd5595e5be0800000000000000
+      internalID: -1486652601624489295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Grass Bunch_0: -975240658538037851
+      Grass Bunch_1: -6603786636028063131
+      Grass Bunch_10: -3884106809760114905
+      Grass Bunch_11: -1453798505788162914
+      Grass Bunch_12: 7407581262676541851
+      Grass Bunch_13: -6188863784378563382
+      Grass Bunch_14: -1494588426050286179
+      Grass Bunch_15: 1337290373050693056
+      Grass Bunch_16: 787460019973604843
+      Grass Bunch_17: -269176463003106845
+      Grass Bunch_18: 1719853415447904430
+      Grass Bunch_19: -2866440948900465100
+      Grass Bunch_2: -8707845920509972812
+      Grass Bunch_20: 6215428379169426943
+      Grass Bunch_21: -1486652601624489295
+      Grass Bunch_3: 2174456476138517367
+      Grass Bunch_4: 1007626982680894092
+      Grass Bunch_5: -5637080785282714287
+      Grass Bunch_6: 1597900266498155138
+      Grass Bunch_7: -756583056737690796
+      Grass Bunch_8: -2077188476890144012
+      Grass Bunch_9: -2612224727532480099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
